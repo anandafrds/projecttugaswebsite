@@ -1,0 +1,68 @@
+/* ROOT OVERRIDER */
+
+* {
+    font-family: 'Roboto', serif;
+    color: #333447;
+}
+
+body {
+    font-family: 'Roboto', serif;
+    background-color: #f9f9f9 !important;
+}
+
+/* TYPOGRAPHY OVERRIDER */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto Slab', serif;
+}
+
+/* LINK OVERRIDER */
+a {
+    text-decoration-style: none;
+}
+
+/* POSITIONING HELPER */
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-justify {
+    text-align: justify;
+    margin-top: 24px;
+}
+
+.space-top36px{
+    margin-top: 36px  !important;
+}
+
+/* CONTACT */
+.entry-title 
+
+.add-bottom{
+    margin-top: 24px;
+}
+
+.form-field{
+    width: max-content;
+}
+
+li>a>h6{
+ list-style: none !important;
+ font-style: italic;
+}
